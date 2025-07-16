@@ -15,5 +15,6 @@ Performed data analysis using Excel on KPMG's customer dataset as part of a virt
 - Identified high-value customer segments and trends
 
 ## 📁 Files
-- `kpmg_customer_analysis.xlsx` – Workbook with cleaned data, pivot tables, and insights
-
+- `kpmg_customer_analysis.xlsx` - Workbook with cleaned data, pivot tables, and insights
+-  `kpmg_excel_summary.pdf`     - Summary of project
+  
